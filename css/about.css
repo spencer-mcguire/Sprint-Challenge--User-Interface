@@ -128,6 +128,12 @@ nav a:hover{
     border: 2px solid black;
 }
 
+.middle-content .box button:hover {
+    background: palevioletred;
+    color: white;
+    border: none;
+}
+
 .bottom-content {
     margin: 20px;
     padding-bottom: 20px;
