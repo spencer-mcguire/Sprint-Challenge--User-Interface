@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-    - Semantic HTLM is the understanding that HTML is to be written the same way across all browsers. Therefore it creates clarity not only between browsers but also programmers. For example, <h1> is understood to always be the largest title. 
+    - Semantic HTLM is the understanding that HTML is to be written the same way across all browsers. Therefore it creates clarity not only between browsers but also programmers. For example, (h1) is understood to always be the largest title. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
